@@ -134,7 +134,7 @@ As of now you have some knowledge of HTML, CSS. Start building ***projects***. I
 
 ---
 
-### Day 20 - ***NEW MILESTONE - 🥉 Bronze Badge*** - Great job! You've successfully reached this milestone. Keep learning to unlock more badges. 
+### Day 20 - ***NEW MILESTONE*** - 🥉 Great job! You've successfully reached Level - I (Bronze Level). Keep learning to unlock more levels.
 
 ---
 
@@ -266,11 +266,11 @@ Going through their official documentations is really enough for knowing how to 
 
 ---
 
-### Day 50 - ***ANOTHER MILESTONE - 🥈 Silver Badge*** - Great job! You've successfully mastered frontend skills. 
+### Day 50 - ***ANOTHER MILESTONE*** - 🥈 Great job! You've successfully reached Level - II (Silver Level). 
 
 ---
 
-### Want to level up your development skills? Start your backend development journey from the <a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>, achieve more badges, and master full-stack development.
+### Now that you've completed the basics of frontend, Start your backend development journey from the <a href="https://github.com/e-DAMCommunity/Resources/blob/main/BackEndDev.md">Backend Web Development RoadMap</a>, reach more levels, and progress in your full-stack development journey.
 
 ---
 

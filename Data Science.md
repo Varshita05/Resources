@@ -3,6 +3,14 @@
 
 ## <h3> 💯 #100DaysOfDataScience </h3>
 <p> This is an intitiation which is for freshers and any person who wishes to learn any technology with a roadmap, resources, practical experience, and guidence/mentorship. </p>
+✨ The journey is structured into 4 milestone stages to track your progress:
+<li>
+ <ul>🥉 Bronze</ul> 
+<ul>🥈 Silver </ul>
+<ul>🥇 Gold </ul> 
+<ul>💎 Platinum</ul> 
+
+Whether you’re starting new or leveling up, this challenge ensures consistent growth with clear goals and support 🚀
 
 ## Mentor Details:
 
@@ -52,12 +60,12 @@ Since childhood, we were accustomed to writing notes on paper. But you cannot ef
 - Everyone has to utilize notion as their note-taking tool.
 
 # Resources
-
+## Unpaid - [Data Analysis](https://www.geeksforgeeks.org/batch/da-skill-up?tab=Chapters)
 ## Python
 
 Paid(recommended)-[click Here](https://www.udemy.com/course/complete-python-bootcamp/)
 
-Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)
+Unpaid-[click Here](https://www.youtube.com/watch?v=7wnove7K-ZQ&list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg) / [Click Here](https://www.tpointtech.com/python-tutorial)
 
 Book(mandatory)-[click Here](https://automatetheboringstuff.com/)
 
@@ -79,7 +87,7 @@ Practice:
 
 ## Power Bi
 
-Paid(mandatory/recommended)-[click Here](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+Paid(recommended)-[click Here](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
 
 Unpaid(for reference)-[Click Here](https://learn.microsoft.com/en-us/users/microsoftpowerplatform-5978/collections/djwu3eywpk4nm)
 
@@ -96,7 +104,94 @@ Note: For students who are opting for unpaid resources should match their topic 
 - In the case of python-complete 3 videos a day
 - In the case of SQL-Read 3 topics daily and regularly practice
 - In the case of Power Bi- Complete a module within 10 days.
+Projects for students who are opting for unpaid resources.
+## Milestone Project-I (Day 13-15)
+### 1. Student Report Card Generator
 
+- Concepts used: dicts (for storing marks), loops, functions, comparison operators.
+
+- Description: Take input of student marks in multiple subjects → calculate total, average, grade (A/B/C).
+
+- Add a function to compare students and find class topper.
+### 2. Simple Calculator with History
+
+- Concepts used: operators, functions, lists.
+
+- Description: Perform basic arithmetic (+, -, *, /, %).
+
+- Keep history of calculations in a list, allow user to review or clear history.
+
+### 3. Number Guessing Game (with Levels)
+
+- Concepts used: random module, loops, if-else, functions.
+
+- Description: Computer picks a random number → user guesses.
+
+- Add difficulty levels: Easy (1–10), Medium (1–50), Hard (1–100).
+
+- Functions to restart game and track number of attempts.
+### SQL Assignments
+1. Create a Students table, insert records, and practice CRUD operations (select, update, delete).
+2. Create a Sales table, insert sample sales data, and use SUM, AVG, COUNT, MAX with GROUP BY to analyze sales.
+3. Create Employees and Departments tables, then use INNER JOIN, LEFT JOIN, RIGHT JOIN to display employee–department relationships.
+
+## Milestone Project-II (Day 25-29)
+### 1.Quiz Application (OOP-based)
+
+Concepts Used:
+- Question class, Quiz class.
+
+- Separate modules for questions, quiz logic, and results.
+
+- Handle invalid user input with exceptions.
+
+Features:
+
+- Store questions in a list/dict.
+
+- Randomize questions.
+
+- Keep score and show result summary at the end.
+### 2. Hotel Room Booking System
+
+Concepts Used:
+
+- Classes: Room, Customer, Booking.
+
+- Modules: room_management, booking_management.
+
+- Exceptions: Handle “room not available” or “invalid booking date”.
+
+Features:
+
+- Add and view available rooms.
+
+- Book/cancel a room.
+
+- Show all customer bookings.
+## SQL Milestone Project 
+### 1.Python + SQL Milestone Project: College Management System (Day 16-18)
+
+- Build a Python program that connects to an SQL database (Students, Courses, Departments, Enrollments).
+
+- Use SQLite for easy setup.
+
+- Perform CRUD operations (add/update/delete students, courses, departments).
+
+- Run queries with Joins and GroupBy (e.g., average marks per course, dept-wise student count).
+
+- Handle errors with exception handling.
+### 2.Python + SQL Milestone Project: Online Store Database (Day 22-25)
+
+- Create an SQL database for Customers, Products, Orders, and OrderDetails.
+
+- Perform CRUD operations on all tables.
+
+- Use Joins to link customers, orders, and products.
+
+- Apply GroupBy & Aggregates to find total sales, top customers, and best-selling products.
+
+- Run advanced queries like products never ordered or sales per city.
 # Schedule(Paid Courses)
 
 | Day | 1st Hour | 2nd Hour | 3rd Hour |
@@ -116,6 +211,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 13 | (Python paid course)Milestone Project-I | Milestone Project-I(Python paid course)Milestone Project-I | Advanced SQL commands |
 | 14 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | Advanced SQL commands |
 | 15 | (Python paid course)Milestone Project-I | (Python paid course)Milestone Project-I | (SQL paid Course)Assignment II |
+| | |LEVEL-I (Bronze)| | |
 | 16 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 17 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
 | 18 | Object Oriented Programming | Object Oriented Programming | (SQL paid Course)Assignment II |
@@ -143,6 +239,7 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 40 | Project III | Project III | (Hackerrank)SQL practice |
 | 41 | Project IV | Project IV | (Hackerrank)SQL practice |
 | 42 | Project V | Project V | (Hackerrank)SQL practice |
+| | | LEVEL-II (Silver) | | |
 | 43-49 | BUFFER | BUFFER | BUFFER |
 | 50 | Coding Practice | Power Bi-setup | Excel-1st video |
 | 51 | Coding Practice | Introduction to Power Bi | Excel-1st video |
@@ -157,8 +254,10 @@ Note: For students who are opting for unpaid resources should match their topic 
 | 60 | Coding Practice | Creating Tables and Relations | 9th video  |
 | 61 | Coding Practice | Creating Tables and Relations | 10th video |
 | 62 | Coding Practice | Creating Tables and Relations | 11th video |
+| | | LEVEL-III (Gold) | | |
 | 63-70 | Coding Practice | DAX | Videos in Intermediate Excel |
 | 70-75 | Coding Practice | Visualize | Videos in Intermediate Excel |
 | 76-80 | Coding Practice | Capstone Project | Videos in Intermediate Excel |
 | 81-90 | BUFFER | BUFFER | BUFFER |
-| 91-100 | Mini project | Mini project | Mini project |
+| 91-100 | Mini project | Mini project | Mini project |  
+| | | LEVEL-IV (Platinum) | | |
